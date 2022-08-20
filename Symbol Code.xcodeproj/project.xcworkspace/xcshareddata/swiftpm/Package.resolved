@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "jaydencodegenerator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JaydenIrwin/JaydenCodeGenerator",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f83b4099f6141090ab81ae42a09b6a52aa03cde9"
+      }
+    },
+    {
+      "identity" : "welcomekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JaydenIrwin/WelcomeKit.git",
+      "state" : {
+        "revision" : "9b0495f2d2de8f3dcb231fcb0d8d35ce2f0ed299",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
